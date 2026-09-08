@@ -30,8 +30,8 @@ dev = [
 sandbox-mcp = "sandbox_mcp.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/abhiteshpundir/sandbox-mcp"
-Repository = "https://github.com/abhiteshpundir/sandbox-mcp"
+Homepage = "https://github.com/AbhiteshPundir/sandbox-mcp"
+Repository = "https://github.com/AbhiteshPundir/sandbox-mcp"
 
 [build-system]
 requires = ["hatchling"]
